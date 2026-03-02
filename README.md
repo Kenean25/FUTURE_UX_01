@@ -1,63 +1,33 @@
-# FUTURE_UX_01
+# Sante Medical Center – UI/UX Case Study
 UI/UX Design Task 1 – Sante Medical Center – Website Redesign
 
-1️⃣ Project Overview
+ ###  Project Overview
 
 This project focuses on redesigning the Sante Medical Center website to improve clarity, user experience, and lead conversion.
 The original website functioned mainly as an informational page but lacked a structured system to guide users toward taking action.
+The goal of the redesign is to create a high-conversion, user-centered healthcare website that builds trust and encourages appointment bookings.
 
-2️⃣ Target Users
+### 1. Target Users
+The primary target users are patients looking for reliable and accessible medical services. 
+This includes first-time visitors, returning patients, and individuals seeking specific treatments or consultations.
 
-  ✔  Patients looking to book appointments
+### 2. Layout Structure
+The website is structured to guide users through a clear journey:
+- The homepage builds trust and presents key services.
+- The service detail page provides detailed information about treatments.
+- The contact page makes it easy for users to book appointments or make inquiries.
 
-  ✔  First-time visitors comparing clinics
+The layout follows a logical hierarchy from introduction to action.
 
-  ✔  Returning patients needing quick contact access
+### 3. UX Decisions
+The design focuses on clarity, simplicity, and accessibility.
+Clear navigation, readable typography, proper spacing, and consistent call-to-action buttons improve usability.
+The interface is designed to be responsive and user-friendly on both desktop and mobile devices.
 
-  ✔ Families seeking trusted healthcare services
-
-3️⃣ Layout Structure
-
- The redesigned layout follows a clear hierarchy:
-
-  ✔  Header: Simple navigation + sticky “Book Appointment” button
-
-  ✔  Hero Section: Clear value proposition with primary CTA
-
-  ✔  Services Section: Highlighted key services with icons
-
-  ✔  Trust Section: About info, certifications, testimonials
-
-  ✔  Contact Section: Easy appointment form + phone number
-
-  ✔  Footer: Location, contact details, quick links
-
-  3️⃣ UX Decisions
-
-  ✔ Added a strong hero message to clearly explain services
-
-  ✔ Simplified navigation to reduce confusion
-
-  ✔ Made “Book Appointment” visible at all times
-
-  ✔ Used visual service cards for better readability
-
-  ✔ Added trust elements to build credibility
-
- ✔ Optimized layout for mobile responsiveness
-
- 4️⃣ How the Design Improves Conversions
-
- ✔ Clear CTAs guide users toward booking
-
-✔ Sticky appointment button increases action rate
-
-✔ Better content hierarchy reduces bounce rate
-
-✔ Trust signals improve user confidence
-
-✔ Mobile-friendly design makes contacting easier
-
+### 4. How the Design Improves Conversions
+The primary call-to-action ("Book Appointment") is placed prominently above the fold to encourage immediate action.
+Trust elements such as service descriptions and structured content reduce user hesitation.
+The simple contact form minimizes friction and makes it easier for users to complete their booking.
   
 
 
