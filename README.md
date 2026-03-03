@@ -28,6 +28,37 @@ The interface is designed to be responsive and user-friendly on both desktop and
 The primary call-to-action ("Book Appointment") is placed prominently above the fold to encourage immediate action.
 Trust elements such as service descriptions and structured content reduce user hesitation.
 The simple contact form minimizes friction and makes it easier for users to complete their booking.
-  
+
+
+  ## 🖼️ Design Screenshots
+
+### 🏠 Home Page
+
+<table>
+  <tr>
+    <td valign="top">
+      <img src="home-desktop.png" width="600"/>
+    </td>
+    <td valign="top">
+      <img src="home-mobile.png" width="250"/>
+    </td>
+  </tr>
+ <tr>
+    <td valign="top">
+      <img src="service-desktop.png" width="600"/>
+    </td>
+    <td valign="top">
+      <img src="service-mobile.png" width="250"/>
+    </td>
+  </tr>
+ <tr>
+    <td valign="top">
+      <img src="contact-desktop.png" width="600"/>
+    </td>
+    <td valign="top">
+      <img src="contact-mobile.png" width="250"/>
+    </td>
+  </tr>
+</table>
 
 
