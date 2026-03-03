@@ -32,7 +32,7 @@ The simple contact form minimizes friction and makes it easier for users to comp
 
   ## 🖼️ Design Screenshots
 
-### 🏠 Home Page
+###  Home Page
 
 <table>
   <tr>
@@ -43,6 +43,10 @@ The simple contact form minimizes friction and makes it easier for users to comp
       <img src="home-mobile.png" width="250"/>
     </td>
   </tr>
+ </table>
+ 
+###  Service Page
+ <table>
  <tr>
     <td valign="top">
       <img src="service-desktop.png" width="600"/>
@@ -50,7 +54,10 @@ The simple contact form minimizes friction and makes it easier for users to comp
     <td valign="top">
       <img src="service-mobile.png" width="250"/>
     </td>
-  </tr>
+  </tr> </table>
+  
+###  Contact Page
+   <table>
  <tr>
     <td valign="top">
       <img src="contact-desktop.png" width="600"/>
@@ -63,4 +70,11 @@ The simple contact form minimizes friction and makes it easier for users to comp
 
  ## 🖼️ Design Tool
  ###  Figma 
+ 
 
+
+## 🔗 Figma Design File
+
+View the full interactive design here:
+
+[Open Figma File](https://www.figma.com/design/8fj8H91T012xhC62EkjO2a/redesign-sante-medical-center?node-id=0-1&t=lsXEAfe6ygKHMB9K-1)
