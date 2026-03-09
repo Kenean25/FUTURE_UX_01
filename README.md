@@ -68,6 +68,19 @@ The simple contact form minimizes friction and makes it easier for users to comp
   </tr>
 </table>
 
+
+### Appointment Page
+   <table>
+ <tr>
+    <td valign="top">
+      <img src="appointment-desktop.png" width="600"/>
+    </td>
+    <td valign="top">
+      <img src="appointment-mobile.png" width="250"/>
+    </td>
+  </tr>
+</table>
+
  ## 🖼️ Design Tool
  ###  Figma 
  
