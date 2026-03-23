@@ -1,5 +1,5 @@
-# Sante Medical Center – UI/UX Case Study
-UI/UX Design Task 1 – Sante Medical Center – Website Redesign
+# Sante Medical Center Website Redesign
+### UI/UX Design Task 1 – Sante Medical Center – Website Redesign
 
  ###  Project Overview
 
