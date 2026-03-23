@@ -87,7 +87,7 @@ The simple contact form minimizes friction and makes it easier for users to comp
  
 
 
-## 🔗 Figma Design File
+### 🔗 Figma Design File
 
 View the full interactive design here:
 
